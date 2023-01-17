@@ -1,9 +1,7 @@
 # idea-projects
 
-Ideas for cool projects
+Ideas for cool projects at NeuroPoly 🎉 
 
-Each project is described as an [issue](https://github.com/neuropoly/idea-projects/issues). 
+👉 [List of projects](https://github.com/orgs/neuropoly/projects/3/views/1).
 
-Please use labels to help filter projects.
-
-The status of projects (untouched, ongoing, finished) could be followed using the [Kanban project management](https://github.com/orgs/neuropoly/projects/3/views/1).
+> **Note**: Each project is described as an issue, which is either hosted in this repository or in another repository (eg: an SCT issue could be listed in the Kanban project list). 
